@@ -64,3 +64,5 @@ product/media/audio/ui/Unlock.ogg
 product/media/audio/ui/VideoRecord.ogg
 product/media/audio/ui/VideoStop.ogg
 product/media/audio/ui/WirelessChargingStarted.ogg
+product/media/audio/ui/reverse_charging_end.ogg
+product/media/audio/ui/reverse_charging_start.ogg

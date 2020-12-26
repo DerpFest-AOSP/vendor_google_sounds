@@ -80,7 +80,9 @@ PRODUCT_COPY_FILES += \
     vendor/google/sounds/proprietary/product/media/audio/ui/audio_end.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/audio_end.ogg \
     vendor/google/sounds/proprietary/product/media/audio/ui/audio_initiate.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/audio_initiate.ogg \
     vendor/google/sounds/proprietary/product/media/audio/ui/camera_click.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/camera_click.ogg \
-    vendor/google/sounds/proprietary/product/media/audio/ui/camera_focus.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/camera_focus.ogg
+    vendor/google/sounds/proprietary/product/media/audio/ui/camera_focus.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/camera_focus.ogg \
+    vendor/google/sounds/proprietary/product/media/audio/ui/reverse_charging_end.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/reverse_charging_end.ogg \
+    vendor/google/sounds/proprietary/product/media/audio/ui/reverse_charging_start.ogg:$(TARGET_COPY_OUT_PRODUCT)/media/audio/ui/reverse_charging_start.ogg
 
 PRODUCT_PACKAGES += \
     SoundPickerPrebuilt
