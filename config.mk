@@ -17,5 +17,6 @@ $(call inherit-product-if-exists, vendor/google/sounds/pixel-vendor.mk)
 
 # Sounds
 PRODUCT_PRODUCT_PROPERTIES += \
+    ro.config.ringtone=Copycat.ogg \
     ro.config.alarm_alert=Bright_morning.ogg \
     ro.config.notification_sound=End_note.ogg
