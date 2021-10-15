@@ -45,7 +45,6 @@ write_makefiles "$MY_DIR"/proprietary-files.txt true
 
 sed -i 's/TARGET_DEVICE/TARGET_ARCH/g' "$ANDROIDMK"
 sed -i 's/pixel/arm64/g' "$ANDROIDMK"
-sed -i -e '18i\\ninclude $(call all-makefiles-under,$(LOCAL_PATH))' "$ANDROIDMK"
 sed -i 's/by device/by vendor/g' "$ANDROIDBP"
 
 # Overlays
