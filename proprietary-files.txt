@@ -3,6 +3,7 @@ product/media/audio/alarms/A_real_hoot.ogg
 product/media/audio/alarms/Bright_morning.ogg
 product/media/audio/alarms/Cuckoo_clock.ogg
 product/media/audio/alarms/Early_twilight.ogg
+product/media/audio/alarms/Fresh_start.ogg
 product/media/audio/alarms/Full_of_wonder.ogg
 product/media/audio/alarms/Gentle_breeze.ogg
 product/media/audio/alarms/Icicles.ogg
@@ -15,6 +16,7 @@ product/media/audio/notifications/Beginning.ogg
 product/media/audio/notifications/Coconuts.ogg
 product/media/audio/notifications/Duet.ogg
 product/media/audio/notifications/End_note.ogg
+product/media/audio/notifications/Eureka.ogg
 product/media/audio/notifications/Gentle_gong.ogg
 product/media/audio/notifications/Mallet.ogg
 product/media/audio/notifications/Orders_up.ogg
@@ -37,7 +39,9 @@ product/media/audio/ringtones/Mash_up.ogg
 product/media/audio/ringtones/Monkey_around.ogg
 product/media/audio/ringtones/Schools_out.ogg
 product/media/audio/ringtones/The_big_adventure.ogg
+product/media/audio/ringtones/Your_new_adventure.ogg
 product/media/audio/ringtones/Zen_too.ogg
+product/media/audio/ui/AttentionalHaptics.ogg
 product/media/audio/ui/audio_end.ogg
 product/media/audio/ui/audio_initiate.ogg
 product/media/audio/ui/camera_click.ogg
@@ -58,6 +62,8 @@ product/media/audio/ui/NFCInitiated.ogg
 product/media/audio/ui/NFCSuccess.ogg
 product/media/audio/ui/NFCTransferComplete.ogg
 product/media/audio/ui/NFCTransferInitiated.ogg
+product/media/audio/ui/reverse_charging_end.ogg
+product/media/audio/ui/reverse_charging_start.ogg
 product/media/audio/ui/Trusted.ogg
 product/media/audio/ui/Undock.ogg
 product/media/audio/ui/Unlock.ogg
