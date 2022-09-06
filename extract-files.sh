@@ -55,14 +55,6 @@ if [ -z "$SRC" ]; then
     SRC=adb
 fi
 
-function blob_fixup() {
-    case "${1}" in
-        *.ogg )
-            vorbiscomment -d ANDROID_HAPTIC "${2}"
-            ;;
-    esac
-}
-
 # Initialize the helper.
 setup_vendor "$DEVICE" "$VENDOR" "$ROOT" false "$CLEAN_VENDOR"
 
